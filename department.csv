@@ -1,0 +1,7 @@
+business_unit,namespace
+Payments,otel-demo
+Payments,opentelemetry-demo
+Core,gmp
+Risk,alloy
+Core,gmp-system
+Risk,prometheus
